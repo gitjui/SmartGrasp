@@ -1,0 +1,167 @@
+[
+    {
+        "q1": "Singapore's population was 6 014 723 last year. Express this number to the nearest thousand.",
+        "option1": "6 000 000",
+        "option2": "6 010 000",
+        "option3": "6 014 000",
+        "option4": "6 015 000",
+        "answer": "option4",
+        "marks": 1,
+        "images": []
+    },
+    {
+        "q2": "In 13.02, which digit is in the tenths place?",
+        "option1": "1",
+        "option2": "2",
+        "option3": "3",
+        "option4": "0",
+        "answer": "option4",
+        "marks": 1,
+        "images": []
+    },
+    {
+        "q3": "Rina makes a necklace using 12 pink pearls and 18 white pearls. What fraction of the pearls are white?",
+        "option1": "2/5",
+        "option2": "3/5",
+        "option3": "2/3",
+        "option4": "3/2",
+        "answer": "option2",
+        "marks": 1,
+        "images": []
+    },
+    {
+        "q4": "What is the value of (63 + 27) ÷ 3 - 12 × 2?",
+        "option1": "6",
+        "option2": "36",
+        "option3": "48",
+        "option4": "120",
+        "answer": "option1",
+        "marks": 1,
+        "images": []
+    },
+    {
+        "q5": "The bar graph shows the number of students in each Sports CCA. Which pie chart best represents the information in the bar graph?",
+        "option1": "A",
+        "option2": "B",
+        "option3": "C",
+        "option4": "D",
+        "answer": "option1",
+        "marks": 1,
+        "images": [
+            "q5_image1.jpg",
+            "q5_image2.jpg"
+        ]
+    },
+    {
+        "q6": "The average of 3 numbers is 34. One of the numbers is 28. Which of the following are the other two numbers?",
+        "option1": "42, 54",
+        "option2": "36, 38",
+        "option3": "30, 32",
+        "option4": "24, 26",
+        "answer": "option2",
+        "marks": 1,
+        "images": []
+    },
+    {
+        "q7": "PQRS is a parallelogram and PSTU is a trapezium. Which of the following pair of lines are parallel?",
+        "option1": "QR and ST",
+        "option2": "QR and UT",
+        "option3": "ST and PU",
+        "option4": "PS and RS",
+        "answer": "option2",
+        "marks": 1,
+        "images": [
+            "q7_image1.jpg"
+        ]
+    },
+    {
+        "q8": "Three containers with some water are shown below. Arrange A, B and C from the largest volume of water to the smallest.",
+        "option1": "A, B, C",
+        "option2": "B, C, A",
+        "option3": "C, B, A",
+        "option4": "C, A, B",
+        "answer": "option4",
+        "marks": 1,
+        "images": [
+            "q8_image1.jpg"
+        ]
+    },
+    {
+        "q9": "The figure below is made up of 5 identical quarter circles. The radius of each quarter circle is 10 cm. Find the area of the figure. Leave your answer in terms of π.",
+        "option1": "125π cm²",
+        "option2": "75π cm²",
+        "option3": "50π cm²",
+        "option4": "25π cm²",
+        "answer": "option1",
+        "marks": 1,
+        "images": [
+            "q9_image1.jpg"
+        ]
+    },
+    {
+        "q10": "The figure below shows a prism. Which of the following are nets of the prism?",
+        "option1": "A and B only",
+        "option2": "A and C only",
+        "option3": "A, B and C only",
+        "option4": "All the above",
+        "answer": "option4",
+        "marks": 1,
+        "images": [
+            "q10_image1.jpg"
+        ]
+    },
+    {
+        "q11": "The solid shown below is made up of 1-cm cubes. Owen takes the whole solid and dipped it completely in a pail of green paint. What is the total surface of solid figure painted green?",
+        "option1": "18 cm²",
+        "option2": "24 cm²",
+        "option3": "30 cm²",
+        "option4": "36 cm²",
+        "answer": "option3",
+        "marks": 2,
+        "images": [
+            "q11_image1.jpg"
+        ]
+    },
+    {
+        "q12": "PQR is an equilateral triangle and STUV is a rhombus. QRST is a straight line and ∠RVS = 52°. Find ∠USV.",
+        "option1": "38°",
+        "option2": "52°",
+        "option3": "56°",
+        "option4": "68°",
+        "answer": "option3",
+        "marks": 2,
+        "images": [
+            "q12_image1.jpg"
+        ]
+    },
+    {
+        "q13": "The rates for renting a bicycle at a shop. Daisy rented two bicycles from 3.00 pm to 5.50 pm. She paid a total of $32 for renting the bicycles. First hour - $8, Every additional 30 min or part thereof - ? How much did Daisy have to pay for every additional 30 min or part thereof for renting a bicycle?",
+        "option1": "$6",
+        "option2": "$2",
+        "option3": "$8",
+        "option4": "$4",
+        "answer": "option2",
+        "marks": 2,
+        "images": []
+    },
+    {
+        "q14": "At first, Mrs Ang had twice as many red beads as yellow beads. She used 2/3 of her yellow beads and some of her red beads to make some necklaces. In the end, 3/5 of the beads left were red beads. What fraction of her red beads did Mrs Ang use?",
+        "option1": "1/2",
+        "option2": "2/5",
+        "option3": "3/4",
+        "option4": "7/12",
+        "answer": "option2",
+        "marks": 2,
+        "images": []
+    },
+    {
+        "q15": "Mrs Samy baked chocolate and strawberry cupcakes at a children's party. The number of chocolate cupcakes was 5/7 the number of strawberry cupcakes. Mrs Samy then baked some blueberry cupcakes. In the end, 25% of the cupcakes were chocolate cupcakes. What percentage of cupcakes were blueberry cupcakes?",
+        "option1": "25%",
+        "option2": "35%",
+        "option3": "40%",
+        "option4": "60%",
+        "answer": "option3",
+        "marks": 2,
+        "images": []
+    }
+]
